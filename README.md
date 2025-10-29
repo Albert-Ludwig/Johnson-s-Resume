@@ -1,6 +1,6 @@
 # Profile
-Johnson Haoran Ji, 纪灏然
-B.Eng @McMaster University, Mechatronics, Robotics and Automation Engineering.
+Johnson Haoran Ji, 纪灏然\
+B.Eng @McMaster University, Mechatronics, Robotics and Automation Engineering.\
 Grade: 3
 Activities and societies: Entrance Scholarship for Engineering Department.
 GPA 11.7/12 (equivalent to 4.0/4.0 in standard 4.0 grading system), top 3% student in Engineering Department.
