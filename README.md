@@ -27,4 +27,5 @@ johnsonji0602@gmail.com\
 (+1) 647-564-1191
 
 ## Personal interests:
-Control theory, Aerospace, Space robotics, Satellite.
+Control theory, Aerospace, Space robotics, Satellite.\
+I am also interested in philosophy, classical music, psychology (Enneagram, MBTI, Classical Jung psychological analysis). Also good at sketching.
