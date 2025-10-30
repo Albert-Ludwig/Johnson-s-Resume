@@ -24,7 +24,7 @@ Participated in research on image deblurring for RAW format images using machine
 
 ## Contact:
 johnsonji0602@gmail.com\
-(+1) 647-564-1191\
+(+1) 647-564-1191
 
 ## Personal interests:
 Control theory, Aerospace, Space robotics, Satellite.
